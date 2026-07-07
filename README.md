@@ -116,3 +116,18 @@ credit-risk-pd-modeling/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
+## Tech stack
+
+**Programming:** Python  
+**Data analysis:** Pandas, NumPy  
+**Machine learning:** Scikit-learn  
+**Model interpretability:** SHAP, LIME  
+**Visualization:** Matplotlib, Seaborn  
+**Environment:** Jupyter Notebook
+
+## Author
+
+**Rayen Akkari**  
+Financial Modeling Engineering Student at ENIT  
+Interested in Data Science, Actuarial Science, Credit Risk and Quantitative Finance.
